@@ -8,7 +8,6 @@ import Select from "@mui/material/Select";
 import FormGroup from "@mui/material/FormGroup";
 import FormControlLabel from "@mui/material/FormControlLabel";
 import Checkbox from "@mui/material/Checkbox";
-import MenuItem from "@mui/material/MenuItem";
 
 const columns = [
   { field: "Name", headerName: "Name", width: 400 },
