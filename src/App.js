@@ -87,7 +87,7 @@ const App = () => {
       setGetEvent([...Idset]);
     }
   };
-  console.log("getEvents", getEvent);
+  console.log("getEvents >>>", getEvent);
   return (
     <div className="tableAlign">
       <input
